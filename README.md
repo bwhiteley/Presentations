@@ -1,2 +1,2 @@
 # Presentations
-Slides and demo code for presentations
+Slides and demo code from presentations
